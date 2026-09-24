@@ -40,56 +40,44 @@ I enjoy building practical DevOps solutions, automating software delivery, impro
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
-EC2 • VPC • IAM • S3 • Lambda • ECR • ECS Fargate • EKS • RDS • DynamoDB • CloudWatch • EventBridge 
+* EC2 • VPC • IAM • S3 • Lambda • ECR • ECS Fargate • EKS • RDS • DynamoDB • CloudWatch • EventBridge 
 
 ### 🔄 CI/CD & Automation
 
-* GitHub Actions
-* Jenkins
-* Git
-* GitHub
-* Ansible
-* CI/CD Pipelines
+* GitHub Actions * Jenkins * Git * GitHub * Ansible * CI/CD Pipelines
 
 ### 🐳 Containers & Orchestration
 
-* Docker
-* Kubernetes
-
+* Docker * Kubernetes
+  
 ### 🔐 DevSecOps
 
-* SonarQube
-* Trivy
-* Security scanning
-* Secrets & Variables
-* Secure CI/CD practices
+* SonarQube * Trivy * Security scanning * Secrets & Variables * Secure CI/CD practices
 
 ### 📊 Monitoring & Observability
 
-* Prometheus
-* Grafana
+* Prometheus * Grafana 
 
 ### 🐧 Operating Systems & Scripting
 
-* Linux
-* Windows
-* WSL
-* Shell Scripting
-* Python
+* Linux * Windows * WSL * Shell Scripting * Python
 
 ### 🛠️ IT & Enterprise Tools
 
-* ServiceNow ITSM
-* OAuth2
-* SAML
+* ServiceNow ITSM * OAuth2 * SAML
 
 ---
 
 # 🚀 Featured Project
 
-## GitHub Actions CI/CD – E-Commerce Application
+## 90 Days of DevOps
+A hands-on DevOps learning journey focused on building rather than just studying.
 
-I built a hands-on **GitHub Actions CI/CD project** to understand and implement GitHub Actions from fundamentals to advanced concepts.
+Topics include:
+
+Linux → Networking → Shell Scripting → Git → Docker → Docker Compose → CI/CD → GitHub Actions → Cloud & Automation
+
+The repository contains practical implementations, experiments, revision material, and working examples built throughout the journey.
 
 ### 🔹 GitHub Actions Fundamentals
 
@@ -127,6 +115,24 @@ I built a hands-on **GitHub Actions CI/CD project** to understand and implement 
 
 🔗 **Project:**
 https://github.com/amit-burnwal/e-commerce-github-actions
+amit-burnwal/e-commerce-github-actions
+devops-ai-powered
+amit-burnwal/devops-ai-powered
+dockerfile-collection
+amit-burnwal/dockerfile-collection
+https-work-in-git
+amit-burnwal/https-work-in-git
+Webapplication-3-Tier
+amit-burnwal/Webapplication-3-Tier
+Git-Doccumentation-Of-RealtimeScenario
+amit-burnwal/Git-Doccumentation-Of-RealtimeScenario
+SSH-Works-IN-Git
+amit-burnwal/SSH-Works-IN-Git
+ShellScript-Devops
+amit-burnwal/ShellScript-Devops
+amit-burnwal-Docker-RAMNIR-Marketplace
+amit-burnwal/amit-burnwal-Docker-RAMNIR-Marketplace
+
 
 ---
 # 🎯 DevOps Areas of Interest
