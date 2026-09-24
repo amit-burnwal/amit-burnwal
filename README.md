@@ -14,7 +14,7 @@
   Passionate about Cloud, Automation, DevOps and building reliable deployment pipelines.
 </p>
 
-
+[LinkedIn](https://www.linkedin.com/in/amit-kumar-burnwal/) •
 ---
 
 ## 🧑‍💻 About Me
